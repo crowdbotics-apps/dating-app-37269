@@ -61,5 +61,12 @@ const _styles = StyleSheet.create({
     position: "absolute",
     width: 282,
     height: 148
+  },
+  TOFgBMMW: {
+    left: 138,
+    top: 319,
+    position: "absolute",
+    width: 101,
+    height: 93
   }
 });
